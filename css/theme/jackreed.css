@@ -1,0 +1,37 @@
+body {
+  background: #1F1F1F;
+  body-background: #1F1F1F;
+}
+
+.no-img-effects {
+  box-shadow: none!important;
+  border: 0px !important;
+  background: transparent !important;
+}
+.highlight-color {
+  color: #5CFA28;
+}
+
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6 {
+  margin: 0 0 20px 0;
+  color: #eee8d5;
+  font-family: "League Gothic", Impact, sans-serif;
+  line-height: 0.9em;
+  letter-spacing: 0.02em;
+  text-transform: none!important;
+  text-shadow: none; }
+
+.reveal {
+  font-family: "Trebuchet MS", sans-serif;
+}
+
+.footer-text{
+  position: fixed!important;
+  bottom:12px;
+  left:12px;
+}
